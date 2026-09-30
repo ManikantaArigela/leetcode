@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManikantaArigela/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/ManikantaArigela/leetcode/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
