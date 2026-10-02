@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManikantaArigela/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -15,9 +16,18 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManikantaArigela/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Database
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/ManikantaArigela/leetcode/tree/master/0626-exchange-seats) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
