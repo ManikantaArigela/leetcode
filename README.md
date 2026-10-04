@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/ManikantaArigela/leetcode/tree/master/0626-exchange-seats) |
+| [1321-restaurant-growth](https://github.com/ManikantaArigela/leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/ManikantaArigela/leetcode/tree/master/1341-movie-rating) |
 ## Dynamic Programming
 |  |
