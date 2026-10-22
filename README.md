@@ -98,10 +98,12 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ManikantaArigela/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ManikantaArigela/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ManikantaArigela/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ManikantaArigela/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
