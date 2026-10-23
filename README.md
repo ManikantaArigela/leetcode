@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/ManikantaArigela/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManikantaArigela/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -91,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
