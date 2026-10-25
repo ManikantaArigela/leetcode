@@ -74,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ManikantaArigela/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManikantaArigela/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ManikantaArigela/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
