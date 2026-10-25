@@ -10,6 +10,7 @@
 | [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/ManikantaArigela/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManikantaArigela/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -84,17 +85,20 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManikantaArigela/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManikantaArigela/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -118,4 +122,9 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
