@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManikantaArigela/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ManikantaArigela/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ManikantaArigela/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ManikantaArigela/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -101,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/ManikantaArigela/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/ManikantaArigela/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManikantaArigela/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -133,5 +135,6 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManikantaArigela/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ManikantaArigela/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ManikantaArigela/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
