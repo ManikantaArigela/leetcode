@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ManikantaArigela/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ManikantaArigela/leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ManikantaArigela/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/ManikantaArigela/leetcode/tree/master/0383-ransom-note) |
@@ -138,4 +139,8 @@
 | [0238-product-of-array-except-self](https://github.com/ManikantaArigela/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikantaArigela/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ManikantaArigela/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ManikantaArigela/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
